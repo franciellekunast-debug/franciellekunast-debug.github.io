@@ -49,6 +49,13 @@ O projeto utiliza:
 **Protótipos iniciais estão sendo fabricados em TPU Shore 95A para avaliação mecânica exploratória.**
 
 ---
+---
+
+## Prior Art and Intellectual Positioning
+
+This publication establishes public timestamped evidence of the MRAM platform concept, including auxetic programmable architectures for adaptive impact dissipation across multiple industrial sectors.
+
+Specific engineering parameters, manufacturing optimizations, derivative lattice configurations and proprietary validation methods remain confidential pending formal intellectual property procedures.
 
 ### Estado de Desenvolvimento
 
