@@ -1,5 +1,6 @@
-# M-RAM-X° — Multipurpose Resilience Auxetic Material
+![Banner M-RAM-X°](docs-banner-m-ram-x.png)
 
+# M-RAM-X° — Multipurpose Resilience Auxetic Material
 ### Plataforma de Metamateriais Auxéticos para Dissipação Programada de Energia
 
 **M-RAM-X° (anteriormente MRAM)** é uma plataforma experimental de engenharia de metamateriais baseada em estruturas auxéticas reentrantes com comportamento mecânico adaptativo.
