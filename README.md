@@ -1,4 +1,4 @@
-![Banner M-RAM-X°](docs-banner-m-ram-x.png)
+h![Banner M-RAM-X°](docs-banner-m-ram-x.png)
 
 # M-RAM-X° — Multipurpose Resilience Auxetic Material
 ### Plataforma de Metamateriais Auxéticos para Dissipação Programada de Energia
