@@ -1,108 +1,165 @@
-h![Banner M-RAM-X°](docs-banner-m-ram-x.png)
+M-RAM-X° — Multipurpose Resilience Auxetic Material
 
-# M-RAM-X° — Multipurpose Resilience Auxetic Material
-### Plataforma de Metamateriais Auxéticos para Dissipação Programada de Energia
+Experimental Platform for Parametric Auxetic Architectures
 
-**M-RAM-X° (anteriormente MRAM)** é uma plataforma experimental de engenharia de metamateriais baseada em estruturas auxéticas reentrantes com comportamento mecânico adaptativo.
+M-RAM-X° (formerly MRAM) is an independent experimental engineering research platform focused on parametrized auxetic cellular architectures for programmable deformation, exploratory impact absorption behavior and controlled energy dissipation.
 
-O projeto investiga geometrias parametrizadas capazes de redistribuir deformações e dissipar energia mecânica através de arquiteturas celulares otimizadas para fabricação aditiva.
+The project investigates geometry-induced mechanical behavior through re-entrant cellular structures integrated with additive manufacturing workflows and preliminary computational analysis.
 
-**A tecnologia encontra-se atualmente em fase de prototipagem funcional e validação experimental preliminar.**
+The platform is currently in:
 
----
-
-### Objetivo Tecnológico
-
-O núcleo estrutural do projeto M-RAM-X° foi concebido como uma **plataforma multissetorial de absorção de impacto, dissipação de energia e controle deformacional programado**.
-
-A arquitetura geométrica pode apresentar aplicações potenciais em:
-- proteção mecânica;
-- sistemas de absorção de impacto;
-- biomecânica;
-- dispositivos médicos expansíveis;
-- estruturas aeroespaciais leves;
-- amortecimento vibracional;
-- isolamento mecânico;
-- engenharia industrial;
-- sistemas multicamadas de proteção;
-- estruturas adaptativas.
+- parametric development;
+- functional prototyping;
+- exploratory mechanical investigation;
+- and preliminary experimental validation stages.
 
 ---
 
-### Estrutura Técnica
+Technological Scope
 
-O projeto utiliza:
-- geometrias auxéticas reentrantes;
-- modelagem paramétrica;
-- fabricação aditiva;
-- prototipagem experimental;
-- análise computacional preliminar;
-- estudos de deformação controlada.
+Current investigations include:
 
-**Protótipos iniciais estão sendo fabricados em TPU Shore 95A para avaliação mecânica exploratória.**
+- auxetic cellular systems;
+- programmable deformation;
+- structural densification behavior;
+- impact energy dissipation studies;
+- vibration damping structures;
+- lightweight adaptive architectures;
+- and additive manufacturing-oriented mechanical geometries.
 
-**Parâmetros v1.0:** θ=62,5° | H=9,98mm | L=2,30mm | T=0,24mm | ν≈-1,67
+Potential future applications under investigation may include:
 
----
-
-### Prior Art and Intellectual Positioning
-
-This publication establishes public timestamped evidence of the M-RAM-X° platform concept, including auxetic programmable architectures for adaptive impact dissipation across multiple industrial sectors.
-
-Specific engineering parameters, manufacturing optimizations, derivative lattice configurations and proprietary validation methods remain confidential pending formal intellectual property procedures.
-
----
-
-### Estado de Desenvolvimento
-
-- CAD paramétrico em desenvolvimento;
-- protótipos físicos em fabricação;
-- ensaios experimentais preliminares em preparação;
-- documentação técnica em consolidação;
-- processo de proteção intelectual em andamento.
+- mechanical protection systems;
+- vibration isolation;
+- industrial damping structures;
+- adaptive structural interfaces;
+- lightweight aerospace structures;
+- and multilayer energy dissipation architectures.
 
 ---
 
-### Propriedade Intelectual
+Technical Structure
 
-**TECNOLOGIA PROPRIETÁRIA**
+The project currently involves:
 
-M-RAM-X° é segredo industrial de Francielle K. P. Calazans.
+- re-entrant auxetic geometries;
+- parametric CAD modeling;
+- additive manufacturing workflows;
+- experimental prototyping;
+- preliminary computational analysis;
+- and exploratory deformation studies.
 
-Geometria, dimensões e código NÃO são públicos. Uso comercial, fabricação ou engenharia reversa proibidos sem contrato.
-
-**LICENCIAMENTO:** mrammotooficial@gmail.com NDA obrigatório antes de qualquer disclosure técnico.
-
-**DOI Conceitual (documentação técnica):** 10.5281/zenodo.16750937  
-**Commit Raiz:** 2ec2895 - 14/04/2026
-
-**É EXPRESSAMENTE PROIBIDO:** copiar, reproduzir, fabricar, simular, distribuir ou fazer engenharia reversa desta tecnologia sem contrato de licença assinado pela titular.
-
-**VIOLAÇÃO:** Sujeita às penalidades da Lei 9.279/96, incluindo multa, indenização por lucros cessantes e ação criminal por concorrência desleal.
-
-Este repositório não contém informações técnicas. Não há código disponível.
+Initial prototypes are being fabricated in TPU Shore 95A exclusively for preliminary structural investigation.
 
 ---
 
-### Licenciamento
+Geometric Parameters v1.0 — Preliminary Parametric Investigation Stage
 
-**Acadêmico/Pesquisa:** Uso livre com citação obrigatória. 
-> Kunast, F. M-RAM-X° (anteriormente MRAM). DOI: 10.5281/zenodo.16750937. 2026.
+Parameter| Value| Unit
+Structural Angle (θ)| 62.5| °
+Height (H)| 9.98| mm
+Width (L)| 2.30| mm
+Wall Thickness (T)| 0.24| mm
+Upper Radius (rh)| 2.52| mm
+Lower Radius (rl)| 1.02| mm
+Estimated Poisson Response (ν)| ≈ -1.67| -
 
-**Comercial:** Requer autorização e royalties. Contato: mrammotooficial@gmail.com
+«Technical Note:
+The values above represent CAD geometrical parameters and preliminary estimates obtained during early-stage parametric and computational investigations.
 
-**Investidores/Parcerias:** mrammotooficial@gmail.com
+They do not constitute definitive laboratory mechanical characterization results.
 
-**Consulte o arquivo [LICENSE](./LICENSE) para termos completos.**
+Poisson response, hysteresis behavior, energy dissipation and structural performance remain subject to formal experimental validation.»
 
 ---
 
-### Nota de Evolução de Marca
+Development Status
 
-M-RAM-X° é a evolução de marca do projeto anteriormente denominado MRAM. Refere-se à mesma plataforma tecnológica de metamateriais auxéticos documentada no DOI 10.5281/zenodo.16750937 e commit 2ec2895 de 14/04/2026. A mudança visa diferenciação comercial e técnica, sem alteração do núcleo técnico protegido.
+Current development stage includes:
+
+- ongoing parametric CAD evolution;
+- fabrication of experimental prototypes;
+- exploratory testing preparation;
+- technical documentation consolidation;
+- and laboratory validation planning.
+
+The project does not currently claim:
+
+- industrial certification;
+- regulatory approval;
+- definitive mechanical validation;
+- or commercial readiness.
+
+Estimated TRL: 2–3
+(Concept validation and functional prototyping stage)
 
 ---
 
-**Autoria:** Francielle K. P. Calazans  
-**Contato:** mrammotooficial@gmail.com  
-**VITA PLENA - LIFE PROTECTED**
+Scientific and Intellectual Positioning
+
+M-RAM-X° does not claim ownership over:
+
+- auxetic materials as a scientific field;
+- negative Poisson ratio phenomena;
+- re-entrant geometries in general;
+- or pre-existing scientific concepts available in international literature.
+
+The investigation focuses specifically on:
+
+- project-specific structural parametrization;
+- programmable deformation architectures;
+- geometry-induced dissipation behavior;
+- and custom integration between cellular topology and additive manufacturing.
+
+This repository serves primarily for:
+
+- scientific positioning;
+- experimental documentation;
+- development traceability;
+- and preliminary engineering communication.
+
+Certain advanced engineering workflows, derivative geometries and optimization methodologies may remain confidential during ongoing intellectual property structuring procedures.
+
+---
+
+Intellectual Property Context
+
+Associated Utility Model application filed before INPI Brazil:
+
+BR 20 2026 012095 8
+Filed on: 18/05/2026
+
+The filing does not imply granted patent rights or definitive technological validation.
+
+---
+
+Licensing
+
+Academic and research usage is permitted with proper citation.
+
+Commercial implementation, industrial manufacturing or proprietary derivative development may require formal authorization from the author.
+
+For collaboration, licensing or research inquiries:
+
+📩 mrammotooficial@gmail.com
+
+---
+
+Brand Evolution Note
+
+M-RAM-X° represents the current evolution of the project previously identified as MRAM, referring to the same experimental research platform.
+
+---
+
+Additional Documentation
+
+For detailed scientific positioning and intellectual property clarification, see:
+
+➡️ POSITIONING_AND_IP.md
+
+---
+
+Author: Francielle K. P. Calazans
+Experimental Engineering Research Platform
+
+VITA PLENA — LIFE PROTECTED
