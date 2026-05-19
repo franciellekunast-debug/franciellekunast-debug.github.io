@@ -165,5 +165,5 @@ Experimental Engineering Research Platform
 VITA PLENA — LIFE PROTECTED
 ---
 
-Visual Reference
-docs-banner-m-ram-x.png
+## Publication Note
+The DOI 10.5281/zenodo.16750937 was discontinued on 18/05/2026 as it contained obsolete information conflicting with Utility Model BR 20 2026 012095 8. This repository reflects the current, accurate positioning.
