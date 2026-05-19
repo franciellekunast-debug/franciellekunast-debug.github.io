@@ -163,3 +163,8 @@ Author: Francielle K. P. Calazans
 Experimental Engineering Research Platform
 
 VITA PLENA — LIFE PROTECTED
+---
+
+Visual Reference
+
+"M-RAM-X° Geometry" (https://raw.githubusercontent.com/franciellekunast-debug/franciellekunast-debug.github.io/main/assets/mramx-preview.png)
