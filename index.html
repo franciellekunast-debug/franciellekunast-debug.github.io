@@ -1,84 +1,290 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!DOCTYPE html><html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Francielle Kunast | Embedded Systems & MRAM Research</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; 
-            background: #0d1117; 
-            color: #c9d1d9; 
-            line-height: 1.6; 
-            padding: 40px 20px;
-        }
-        .container { max-width: 700px; margin: 0 auto; }
-        h1 { color: #58a6ff; font-size: 2.2rem; margin-bottom: 8px; }
-        h2 { color: #58a6ff; font-size: 1.4rem; margin: 40px 0 16px; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
-        .tagline { color: #8b949e; font-size: 1.1rem; margin-bottom: 32px; }
-        .project { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin-bottom: 24px; }
-        .project h3 { color: #f0f6fc; margin-bottom: 12px; }
-        .project p { color: #8b949e; margin-bottom: 16px; }
-        .stats { display: flex; gap: 24px; margin: 16px 0; flex-wrap: wrap; }
-        .stat { color: #8b949e; font-size: 0.9rem; }
-        .stat strong { color: #f0f6fc; display: block; font-size: 1.1rem; }
-        .links { display: flex; gap: 12px; flex-wrap: wrap; }
-        .btn { 
-            background: #238636; 
-            color: white; 
-            padding: 8px 16px; 
-            border-radius: 6px; 
-            text-decoration: none; 
-            font-size: 0.9rem;
-            border: 1px solid #2ea043;
-        }
-        .btn:hover { background: #2ea043; }
-        .btn-secondary { background: #21262d; border: 1px solid #30363d; }
-        .btn-secondary:hover { background: #30363d; }
-        .contact { margin-top: 40px; }
-        .footer { margin-top: 60px; color: #484f58; font-size: 0.8rem; text-align: center; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Francielle Kunast</h1>
-        <p class="tagline">Embedded Systems Engineer | MRAM & Auxetic Materials Research | Python, C/C++</p>
+    <title>Francielle K. P. Calazans | Experimental Auxetic Structures Research</title><style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
 
-        <h2>Projeto em Destaque</h2>
-        <div class="project">
-            <h3>mram-moto: Simulador Open-Source de Célula MRAM Auxética</h3>
-            <p>Simulador físico para validação de geometrias MRAM com coeficiente de Poisson negativo (NPR). Desenvolvido para testar viabilidade estrutural antes da fabricação, reduzindo custos de prototipagem em hardware.</p>
-            
-            <div class="stats">
-                <div class="stat"><strong>10.000</strong> Simulações computacionais</div>
-                <div class="stat"><strong>-1.67</strong> Poisson ratio atingido</div>
-                <div class="stat"><strong>2.1k+</strong> Views no r/embedded</div>
-            </div>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        background: #0d1117;
+        color: #c9d1d9;
+        line-height: 1.7;
+        padding: 40px 20px;
+    }
 
-            <div class="links">
-                <a href="https://github.com/franciellekunast-debug/mram-moto" class="btn">GitHub</a>
-                
-                <a href="https://x.com/i/status/2045857538801873380" class="btn btn-secondary">Demo</a>
-            </div>
+    .container {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    h1 {
+        color: #58a6ff;
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+    }
+
+    h2 {
+        color: #58a6ff;
+        font-size: 1.5rem;
+        margin: 45px 0 18px;
+        border-bottom: 1px solid #30363d;
+        padding-bottom: 8px;
+    }
+
+    h3 {
+        color: #f0f6fc;
+        margin-bottom: 16px;
+    }
+
+    p {
+        color: #8b949e;
+        margin-bottom: 16px;
+    }
+
+    ul {
+        margin-left: 20px;
+        color: #8b949e;
+    }
+
+    li {
+        margin-bottom: 8px;
+    }
+
+    .tagline {
+        color: #8b949e;
+        font-size: 1.1rem;
+        margin-bottom: 35px;
+    }
+
+    .project {
+        background: #161b22;
+        border: 1px solid #30363d;
+        border-radius: 10px;
+        padding: 28px;
+        margin-bottom: 24px;
+    }
+
+    .stats {
+        display: flex;
+        gap: 24px;
+        margin: 24px 0;
+        flex-wrap: wrap;
+    }
+
+    .stat {
+        color: #8b949e;
+        font-size: 0.9rem;
+    }
+
+    .stat strong {
+        color: #f0f6fc;
+        display: block;
+        font-size: 1.1rem;
+        margin-bottom: 4px;
+    }
+
+    .links {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+
+    .btn {
+        background: #238636;
+        color: white;
+        padding: 10px 18px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 0.95rem;
+        border: 1px solid #2ea043;
+    }
+
+    .btn:hover {
+        background: #2ea043;
+    }
+
+    .btn-secondary {
+        background: #21262d;
+        border: 1px solid #30363d;
+    }
+
+    .btn-secondary:hover {
+        background: #30363d;
+    }
+
+    .footer {
+        margin-top: 70px;
+        padding-top: 30px;
+        border-top: 1px solid #30363d;
+        color: #6e7681;
+        font-size: 0.9rem;
+    }
+
+    .footer p {
+        margin-bottom: 12px;
+    }
+
+    .image-box {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .image-box img {
+        width: 100%;
+        max-width: 750px;
+        border-radius: 10px;
+        border: 1px solid #30363d;
+    }
+
+</style>
+
+</head><body><div class="container"><h1>M-RAM-X°</h1>
+
+<p class="tagline">
+    Independent Experimental Research | Parametric Auxetic Architectures | Additive Manufacturing & Structural Investigation
+</p>
+
+<div class="project">
+
+    <h3>Experimental Platform for Parametric Auxetic Architectures</h3>
+
+    <p>
+        M-RAM-X° is an independent experimental engineering research platform focused on parametrized auxetic cellular architectures for programmable deformation, exploratory impact absorption behavior and controlled energy dissipation.
+    </p>
+
+    <p>
+        The project investigates geometry-induced mechanical behavior through re-entrant cellular structures integrated with additive manufacturing workflows and preliminary computational analysis.
+    </p>
+
+    <div class="stats">
+        <div class="stat">
+            <strong>TRL 2–3</strong>
+            Experimental development stage
         </div>
 
-        <h2>Stack & Pesquisa</h2>
-        <p><strong>Linguagens:</strong> Python, C, C++, Assembly para ARM Cortex-M</p>
-        <p><strong>Áreas:</strong> Sistemas Embarcados, Simulação Física, Materiais Auxéticos, MRAM</p>
-        <p><strong>Ferramentas:</strong> Git, Zenodo, VSCode, PlatformIO</p>
-
-        <div class="contact">
-            <h2>Contato & Suporte</h2>
-            <div class="links">
-                <a href="https://github.com/franciellekunast-debug" class="btn btn-secondary">GitHub</a>
-                <a href="mailto:kunast7@gmail.com" class="btn btn-secondary">Email</a>
-            </div>
+        <div class="stat">
+            <strong>TPU 95A</strong>
+            Preliminary prototyping material
         </div>
 
-    
-  <p><strong>Status Legal:</strong> Plataforma autoral em prototipagem. Modelo de Utilidade depositado no INPI sob nº BR 20 2026 012095 8 em 17/05/2026.</p>
-  <p>© 2026 Francielle K. P. Calazans. Código aberto, ciência aberta. Todos os direitos reservados.</p>
+        <div class="stat">
+            <strong>Auxetic</strong>
+            Parametric cellular investigation
+        </div>
+    </div>
 
-</body>
+    <div class="links">
+        <a href="https://github.com/franciellekunast-debug/M-RAM-X-" class="btn">
+            GitHub Repository
+        </a>
+
+        <a href="mailto:mrammotooficial@gmail.com" class="btn btn-secondary">
+            Contact
+        </a>
+    </div>
+
+</div>
+
+<h2>Research Scope</h2>
+
+<ul>
+    <li>Auxetic cellular systems</li>
+    <li>Programmable deformation architectures</li>
+    <li>Structural densification behavior</li>
+    <li>Impact energy dissipation studies</li>
+    <li>Vibration damping structures</li>
+    <li>Lightweight adaptive geometries</li>
+    <li>Additive manufacturing-oriented architectures</li>
+</ul>
+
+<h2>Technical Structure</h2>
+
+<p>
+    The project currently involves:
+</p>
+
+<ul>
+    <li>Re-entrant auxetic geometries</li>
+    <li>Parametric CAD modeling</li>
+    <li>Additive manufacturing workflows</li>
+    <li>Experimental prototyping</li>
+    <li>Preliminary computational analysis</li>
+    <li>Exploratory deformation studies</li>
+</ul>
+
+<p>
+    Initial prototypes are being fabricated in TPU Shore 95A exclusively for preliminary structural investigation.
+</p>
+
+<h2>Experimental Status</h2>
+
+<p>
+    The platform is currently under preliminary experimental investigation and formal laboratory validation planning.
+</p>
+
+<p>
+    All disclosed numerical parameters and mechanical estimates should be interpreted as:
+</p>
+
+<ul>
+    <li>Preliminary</li>
+    <li>Investigational</li>
+    <li>Experimental</li>
+    <li>Subject to formal validation</li>
+</ul>
+
+<p>
+    No industrial certification, regulatory approval or definitive mechanical characterization is currently claimed.
+</p>
+
+<h2>Intellectual Property Context</h2>
+
+<p>
+    Associated Utility Model application filed before INPI Brazil:
+</p>
+
+<p>
+    <strong>BR 20 2026 012095 8</strong><br>
+    Filed on: 18/05/2026
+</p>
+
+<p>
+    The filing does not imply granted patent rights or definitive technological validation.
+</p>
+
+<h2>Official Repository</h2>
+
+<div class="links">
+    <a href="https://github.com/franciellekunast-debug" class="btn btn-secondary">
+        GitHub Profile
+    </a>
+
+    <a href="https://github.com/franciellekunast-debug/M-RAM-X-" class="btn btn-secondary">
+        M-RAM-X°
+    </a>
+</div>
+
+<div class="image-box">
+    <img src="assets/mramx-preview.png" alt="M-RAM-X° Geometry Preview">
+</div>
+
+<div class="footer">
+
+    <p>
+        © 2026 Francielle K. P. Calazans — Experimental Engineering Research Platform
+    </p>
+
+    <p>
+        VITA PLENA — LIFE PROTECTED
+    </p>
+
+</div>
+
+</div></body>
 </html>
